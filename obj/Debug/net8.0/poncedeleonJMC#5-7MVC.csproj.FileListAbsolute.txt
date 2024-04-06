@@ -65,3 +65,37 @@ G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\ne
 G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.pdb
 G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.genruntimeconfig.cache
 G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\ref\poncedeleonJMC#5-7MVC.dll
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\bin\Debug\net8.0\appsettings.json
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\bin\Debug\net8.0\poncedeleonJMC#5-7MVC.exe
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\bin\Debug\net8.0\poncedeleonJMC#5-7MVC.deps.json
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\bin\Debug\net8.0\poncedeleonJMC#5-7MVC.runtimeconfig.json
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\bin\Debug\net8.0\poncedeleonJMC#5-7MVC.dll
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\bin\Debug\net8.0\poncedeleonJMC#5-7MVC.pdb
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.csproj.AssemblyReference.cache
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.AssemblyInfoInputs.cache
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.AssemblyInfo.cs
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.csproj.CoreCompileInputs.cache
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.sourcelink.json
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\staticwebassets\msbuild.poncedeleonJMC#5-7MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.poncedeleonJMC#5-7MVC.props
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.poncedeleonJMC#5-7MVC.props
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.poncedeleonJMC#5-7MVC.props
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\scopedcss\bundle\poncedeleonJMC#5-7MVC.styles.css
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\poncedel.3949A673.Up2Date
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.dll
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\refint\poncedeleonJMC#5-7MVC.dll
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.pdb
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.genruntimeconfig.cache
+C:\Users\Ucrda\OneDrive\CodeStack\Level2\TestingOthers\Julius\true_5-7_Endpoints_MVCJulius\poncedeleonJMC-5-7MVC\obj\Debug\net8.0\ref\poncedeleonJMC#5-7MVC.dll

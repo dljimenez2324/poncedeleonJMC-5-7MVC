@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Other computers\\My Computer\\Academy\\Level2\\poncedeleonJMC#5-7MVC\\poncedeleonJMC#5-7MVC.csproj": {}
+    "C:\\Users\\Ucrda\\OneDrive\\CodeStack\\Level2\\TestingOthers\\Julius\\true_5-7_Endpoints_MVCJulius\\poncedeleonJMC-5-7MVC\\poncedeleonJMC#5-7MVC.csproj": {}
   },
   "projects": {
-    "G:\\Other computers\\My Computer\\Academy\\Level2\\poncedeleonJMC#5-7MVC\\poncedeleonJMC#5-7MVC.csproj": {
+    "C:\\Users\\Ucrda\\OneDrive\\CodeStack\\Level2\\TestingOthers\\Julius\\true_5-7_Endpoints_MVCJulius\\poncedeleonJMC-5-7MVC\\poncedeleonJMC#5-7MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Other computers\\My Computer\\Academy\\Level2\\poncedeleonJMC#5-7MVC\\poncedeleonJMC#5-7MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Ucrda\\OneDrive\\CodeStack\\Level2\\TestingOthers\\Julius\\true_5-7_Endpoints_MVCJulius\\poncedeleonJMC-5-7MVC\\poncedeleonJMC#5-7MVC.csproj",
         "projectName": "poncedeleonJMC#5-7MVC",
-        "projectPath": "G:\\Other computers\\My Computer\\Academy\\Level2\\poncedeleonJMC#5-7MVC\\poncedeleonJMC#5-7MVC.csproj",
-        "packagesPath": "C:\\Users\\jtpg9\\.nuget\\packages\\",
-        "outputPath": "G:\\Other computers\\My Computer\\Academy\\Level2\\poncedeleonJMC#5-7MVC\\obj\\",
+        "projectPath": "C:\\Users\\Ucrda\\OneDrive\\CodeStack\\Level2\\TestingOthers\\Julius\\true_5-7_Endpoints_MVCJulius\\poncedeleonJMC-5-7MVC\\poncedeleonJMC#5-7MVC.csproj",
+        "packagesPath": "C:\\Users\\Ucrda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ucrda\\OneDrive\\CodeStack\\Level2\\TestingOthers\\Julius\\true_5-7_Endpoints_MVCJulius\\poncedeleonJMC-5-7MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jtpg9\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ucrda\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

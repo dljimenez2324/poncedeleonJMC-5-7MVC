@@ -31,3 +31,37 @@ C:\Users\jtpg9\Documents\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\r
 C:\Users\jtpg9\Documents\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.pdb
 C:\Users\jtpg9\Documents\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.genruntimeconfig.cache
 C:\Users\jtpg9\Documents\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\ref\poncedeleonJMC#5-7MVC.dll
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\bin\Debug\net8.0\appsettings.Development.json
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\bin\Debug\net8.0\appsettings.json
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\bin\Debug\net8.0\poncedeleonJMC#5-7MVC.exe
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\bin\Debug\net8.0\poncedeleonJMC#5-7MVC.deps.json
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\bin\Debug\net8.0\poncedeleonJMC#5-7MVC.runtimeconfig.json
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\bin\Debug\net8.0\poncedeleonJMC#5-7MVC.dll
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\bin\Debug\net8.0\poncedeleonJMC#5-7MVC.pdb
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.csproj.AssemblyReference.cache
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.GeneratedMSBuildEditorConfig.editorconfig
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.AssemblyInfoInputs.cache
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.AssemblyInfo.cs
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.csproj.CoreCompileInputs.cache
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.MvcApplicationPartsAssemblyInfo.cs
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.MvcApplicationPartsAssemblyInfo.cache
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.sourcelink.json
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\staticwebassets.build.json
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\staticwebassets.development.json
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\staticwebassets\msbuild.poncedeleonJMC#5-7MVC.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.poncedeleonJMC#5-7MVC.props
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.poncedeleonJMC#5-7MVC.props
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.poncedeleonJMC#5-7MVC.props
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\scopedcss\bundle\poncedeleonJMC#5-7MVC.styles.css
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\poncedel.3949A673.Up2Date
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.dll
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\refint\poncedeleonJMC#5-7MVC.dll
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.pdb
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\poncedeleonJMC#5-7MVC.genruntimeconfig.cache
+G:\Other computers\My Computer\Academy\Level2\poncedeleonJMC#5-7MVC\obj\Debug\net8.0\ref\poncedeleonJMC#5-7MVC.dll

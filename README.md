@@ -22,4 +22,5 @@ Endpoints:
 
 
   
-// Review by: 
+// Review by: David Jimenez
+All of your functions work properly. I dont see any issues currently. Good job. Also your code is very clean and organized

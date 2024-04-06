@@ -36,7 +36,7 @@ namespace poncedeleonJMC_5_7MVC.Controllers
         }
 
         [HttpGet("/reverseNumbers")]
-        public int reverseNumbers(int reverseNum = 123){
+        public string reverseNumbers(int reverseNum = 123){
             int reversal = 0;   
             int remainder = 0;
             while( reverseNum > 0){
@@ -44,7 +44,7 @@ namespace poncedeleonJMC_5_7MVC.Controllers
                 reverseNum = reverseNum/10;
                 reversal = (reversal*10) + remainder;
             }
-                return reversal;
+                return $"Your original number is {reverseNum}, reversed it is {reversal}";
             
         }
     }

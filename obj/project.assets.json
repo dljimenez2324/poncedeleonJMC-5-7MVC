@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jtpg9\\Documents\\Academy\\Level2\\poncedeleonJMC#5-7MVC\\poncedeleonJMC#5-7MVC.csproj",
+      "projectUniqueName": "G:\\Other computers\\My Computer\\Academy\\Level2\\poncedeleonJMC#5-7MVC\\poncedeleonJMC#5-7MVC.csproj",
       "projectName": "poncedeleonJMC#5-7MVC",
-      "projectPath": "C:\\Users\\jtpg9\\Documents\\Academy\\Level2\\poncedeleonJMC#5-7MVC\\poncedeleonJMC#5-7MVC.csproj",
+      "projectPath": "G:\\Other computers\\My Computer\\Academy\\Level2\\poncedeleonJMC#5-7MVC\\poncedeleonJMC#5-7MVC.csproj",
       "packagesPath": "C:\\Users\\jtpg9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jtpg9\\Documents\\Academy\\Level2\\poncedeleonJMC#5-7MVC\\obj\\",
+      "outputPath": "G:\\Other computers\\My Computer\\Academy\\Level2\\poncedeleonJMC#5-7MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jtpg9\\AppData\\Roaming\\NuGet\\NuGet.Config"
